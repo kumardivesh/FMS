@@ -1,0 +1,9 @@
+#validate_name,#validate_quali,#validate_date,#validate_dept
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("sky.jpg")
+    }
+    {
+color:"red";
+}
